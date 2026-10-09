@@ -50,8 +50,8 @@ one workflow.
 The repository's demo recordings can be added here once they are
 uploaded to a public location or committed to the repository.
 
--   **Descriptive answer evaluation:** `assets/evalme-demo-pt1.gif`
--   **OMR evaluation:** `assets/evalme-demo-pt2.gif`
+-   ![Descriptive Evaluation Demo](assets/evalme-demo-pt1.gif)
+-   ![OMR Evaluation Demo](assets/evalme-demo-pt2.gif)
 
 For GitHub, consider converting the recordings to GIFs or uploading them
 to GitHub Releases, then linking them here. Avoid committing very large
