@@ -35,7 +35,7 @@ Grade handwritten descriptive answers and OMR sheets in one workflow, with less 
 
 | Answer Sheet | Answer Key |
 |:---:|:---:|
-| <img src="assets/answer-sheet.png" alt="Handwritten answer sheet" width="320"> | <img src="assets/answer-key.png" alt="Answer key" width="320"> |
+| <img src="assets/answer-sheet.jpeg" alt="Handwritten answer sheet" width="320"> | <img src="assets/answer-key.png" alt="Answer key" width="320"> |
 
 <br>
 
@@ -51,7 +51,7 @@ Grade handwritten descriptive answers and OMR sheets in one workflow, with less 
 
 | Student OMR Sheet | OMR Key |
 |:---:|:---:|
-| <img src="assets/student-omr.png" alt="Student OMR sheet" width="320"> | <img src="assets/omr-key.png" alt="OMR key" width="320"> |
+| <img src="assets/student-omr.PNG" alt="Student OMR sheet" width="320"> | <img src="assets/omr-key.png" alt="OMR key" width="320"> |
 
 <br>
 
